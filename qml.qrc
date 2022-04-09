@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>GaugeAndon.qml</file>
+        <file>ArcItem.qml</file>
+        <file>background.jpg</file>
+        <file>wheel.png</file>
+    </qresource>
+</RCC>
